@@ -1,5 +1,5 @@
 print("hello world);
 read(print());
-write
-wrote
-writen 2345
+write;
+wrote;
+writen 2345;
