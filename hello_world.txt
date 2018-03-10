@@ -2,3 +2,4 @@ print("hello world);
 read(print());
 write
 wrote
+writen
