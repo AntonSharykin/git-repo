@@ -3,3 +3,5 @@ read(print());
 write;
 wrote;
 writen 2345;
+writen;
+master
